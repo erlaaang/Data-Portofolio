@@ -42,4 +42,26 @@ My long-term goal is to evolve into a Data Solutions Architect — someone who d
 
 # Portofolio
 
+> 💡 All projects below use anonymized architectures or public datasets to respect data confidentiality from my professional work.
+
+## 🔧 Data Engineering & Pipelines
+
+| Project | Tools | Description | Status |
+|--------|-------|-------------|--------|
+| ETL Pipeline – Public Insurance Dataset | Python, SQL, SSIS | End-to-end pipeline ingesting, transforming, and loading public insurance claims data into a structured data warehouse | 🔄 In Progress |
+| Automated Data Validation Framework | Python, SQL | Reusable validation layer for checking data completeness, consistency, and integrity across pipeline stages | 🔄 In Progress |
+
+## 🏗️ Data Architecture
+
+| Project | Tools | Description | Status |
+|--------|-------|-------------|--------|
+| Enterprise Data Architecture – Fictional Insurance Co. | Visio, Draw.io | Full data architecture design for a fictional insurance company, including data flow diagrams, data dictionary, and ERD | 🔄 In Progress |
+
+## 📊 Analytics & Dashboards
+
+| Project | Tools | Description | Status |
+|--------|-------|-------------|--------|
+| Server Health Monitoring Dashboard | Grafana, SQL | Real-time monitoring dashboard template for database performance and server availability using public benchmark data | 🔄 In Progress |
+| Sales Analytics Dashboard | Tableau, Python | Interactive Tableau dashboard built on a public retail dataset, with Python-based data preparation | 🔄 In Progress |
+
 
