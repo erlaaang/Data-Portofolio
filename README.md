@@ -48,7 +48,7 @@ My long-term goal is to evolve into a Data Solutions Architect — someone who d
 
 | Project | Tools | Description | Status |
 |--------|-------|-------------|--------|
-| ETL Pipeline – Public Insurance Dataset | Python, SQL, SSIS | End-to-end pipeline ingesting, transforming, and loading public insurance claims data into a structured data warehouse | 🔄 In Progress |
+| ETL Pipeline – Public Insurance Dataset | Python, SQL, dbt, airflow,docker | End-to-end pipeline ingesting, transforming, and loading public insurance claims data into a structured data warehouse | [Link](https://github.com/erlaaang/insurance-data-pipeline/)|
 | Automated Data Validation Framework | Python, SQL | Reusable validation layer for checking data completeness, consistency, and integrity across pipeline stages | 🔄 In Progress |
 
 ## 🏗️ Data Architecture
