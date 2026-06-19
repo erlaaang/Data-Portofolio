@@ -1,5 +1,5 @@
-# Erlangga Riyyan Nugraha - A Data Engineering Portofolio
-End-to-end data engineering projects covering ETL pipelines, data architecture, and analytics dashboards | Python · SQL · Grafana · Tableau
+# Erlangga Riyyan Nugraha - A Data Portofolio
+End-to-end data Architecture projects covering ETL pipelines, data architecture, and analytics dashboards | Python · SQL · Grafana · Tableau
 
 About Me
 
@@ -48,20 +48,13 @@ My long-term goal is to evolve into a Data Solutions Architect — someone who d
 
 | Project | Tools | Description | Status |
 |--------|-------|-------------|--------|
-| ETL Pipeline – Public Insurance Dataset | Python, SQL, dbt, airflow,docker | End-to-end pipeline ingesting, transforming, and loading public insurance claims data into a structured data warehouse | [Link](https://github.com/erlaaang/insurance-data-pipeline/)|
-| Automated Data Validation Framework | Python, SQL | Reusable validation layer for checking data completeness, consistency, and integrity across pipeline stages | 🔄 In Progress |
-
-## 🏗️ Data Architecture
-
-| Project | Tools | Description | Status |
-|--------|-------|-------------|--------|
-| Enterprise Data Architecture – Fictional Insurance Co. | Visio, Draw.io | Full data architecture design for a fictional insurance company, including data flow diagrams, data dictionary, and ERD | 🔄 In Progress |
+| ETL Pipeline – Public Insurance Dataset | Python, SQL, dbt, airflow, docker | End-to-end pipeline ingesting, transforming, and loading public insurance claims data into a structured data warehouse | [Link](https://github.com/erlaaang/insurance-data-pipeline/)|
 
 ## 📊 Analytics & Dashboards
 
 | Project | Tools | Description | Status |
 |--------|-------|-------------|--------|
-| Server Health Monitoring Dashboard | Grafana, SQL | Real-time monitoring dashboard template for database performance and server availability using public benchmark data | 🔄 In Progress |
-| Sales Analytics Dashboard | Tableau, Python | Interactive Tableau dashboard built on a public retail dataset, with Python-based data preparation | 🔄 In Progress |
+| Server Health Monitoring Dashboard | Grafana, SQL | Real-time monitoring dashboard template for database performance and server availability using public benchmark data 
+| Sales Analytics Dashboard | Tableau, Python | Interactive Tableau dashboard built on a public retail dataset, with Python-based data preparation
 
 
